@@ -1,4 +1,4 @@
-### Hi! I'm Kevin
+### Hi, I'm Kevin!
 
 I'm a developer and an undergrad studying Computer Science, interested in machine learning and its applications to bioinformatics, finance, and other fields.
 
