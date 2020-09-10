@@ -6,6 +6,6 @@ I love technology and learning new things. Currently, I'm exploring software eng
 
 In the summer of 2019, I worked at Intralinks as an intern on the innovation team, building natural language processing pipelines to help streamline customer acquisition.
 
-I am currently a software engineering intern at Google, on the Business Messages team.
+I was a software engineering intern at Google during the summer of 2020. There, I worked on the Google Business Messages team, creating tools for company partners to integrate natural language processing into support chatbots.
 
 Visit my personal website at https://kevinzfang.com!
