@@ -11,11 +11,11 @@
 
 - 📝 I've also worked a lot at **Curoverse, helping us better understand the human genome.**
 
-- 👨‍💻 All of my projects are available at [https://kevinzfang.com](https://kevinzfang.com)
+- 👨‍💻 All of my projects are available at: [https://kevinzfang.com](https://kevinzfang.com)
 
-- 📫 How to reach me **kevinzfang [at] gmail.com**
+- 📫 How to reach me: **kevinzfang [at] gmail.com**
 
-- 📄 Learn about my experiences [https://kevinzfang.com/resume.pdf](https://kevinzfang.com/resume.pdf)
+- 📄 Learn about my experiences: [https://kevinzfang.com/resume.pdf](https://kevinzfang.com/resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
