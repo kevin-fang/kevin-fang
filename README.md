@@ -5,7 +5,7 @@
 
 - 🔭 In the summer of 2021, I interned at **Facebook on the Instagram Ads Delivery & Ranking team, improving ad ranking algorithms.**
 
-- 👯 Before that (summer 2020), I interned at **Google on the Business Messages team, creating onboarding tools**
+- 👯 Before that (summer 2020), I interned at **Google on the Business Messages team, creating onboarding tools for small to medium sized businesses to join the platform.**
 
 - 🌱 My freshman summer (summer 2019), I interned at **Intralinks on the Innovation team, building natural language processing tools to help streamline customer acquisition.**
 
