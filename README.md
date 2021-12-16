@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at: [https://kevinzfang.com](https://kevinzfang.com)
 
-- 📫 How to reach me: **kevinzfang [at] gmail.com**
+- 📫 How to reach me: **kevinzfang [at] gmail [dot] com**
 
 - 📄 Learn about my experiences: [https://kevinzfang.com/resume.pdf](https://kevinzfang.com/resume.pdf)
 
