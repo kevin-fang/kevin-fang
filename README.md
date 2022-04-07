@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kevin-fang&label=Profile%20views&color=0e75b6&style=flat" alt="kevin-fang" /> </p>
 
-- 🔭 In the summer of 2021, I interned at **Facebook on the Instagram Ads Delivery & Ranking team, improving ad ranking algorithms.**
+- 🔭 In the summer of 2021, I interned at **Meta on the Instagram Ads Delivery & Ranking team, working on improving the ad ranking algorithms.**
 
 - 🔎 Before that (summer 2020), I interned at **Google on the Business Messages team, creating onboarding tools for small to medium sized businesses to join the platform.**
 
