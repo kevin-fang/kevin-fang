@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kevin</h1>
-<h3 align="center">a developer and an undergrad studying Computer Science at Duke University</h3>
+<h3 align="center">a software engineer at Citadel Securities</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kevin-fang&label=Profile%20views&color=0e75b6&style=flat" alt="kevin-fang" /> </p>
+
+- I am currently a software engineer on the Systematic Equities & FICC platform team at Citadel Securities.
 
 - 🔭 In the summer of 2021, I interned at **Meta on the Instagram Ads Delivery & Ranking team, working on improving the ad ranking algorithms.**
 
